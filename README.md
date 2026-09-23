@@ -1,9 +1,12 @@
 # Projeto-Bootcamp-Web-Responsivo
+
 # Portfólio Profissional
+
+**Evidência do projeto:** [Acessar arquivos e evidências no Google Drive](https://drive.google.com/drive/folders/1tyQ72rrsZjRiTdkztWITO-eOsVGBY61t?usp=drive_link)
 
 Site de portfólio profissional desenvolvido para apresentar a atuação de **Pedro Giglioti na área de Segurança da Informação**, reunindo informações profissionais, serviços, pesquisas, vulnerabilidades reportadas, certificações e formas de contato.
 
-O projeto foi desenvolvido utilizando **HTML, CSS e JavaScript puro**, sem a utilização de frameworks front-end, responsividade, acessibilidade.
+O projeto foi desenvolvido utilizando **HTML, CSS e JavaScript puro**, sem a utilização de frameworks front-end, com foco em **responsividade e acessibilidade**.
 
 ## Sobre o Projeto
 
